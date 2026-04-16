@@ -1,4 +1,4 @@
-# 🧠 Future Interns – Task 3: Sentiment Analysis using Python  
+# 🧠 Sentiment Analysis System  
 
 A sentiment analysis project built using **Python** and **Jupyter Notebook** to analyze textual feedback and understand user opinions through **Natural Language Processing (NLP)**.  
 
@@ -6,9 +6,7 @@ A sentiment analysis project built using **Python** and **Jupyter Notebook** to 
 
 ## 📌 Project Description  
 This project focuses on analyzing text feedback data and classifying it into **Positive, Neutral, or Negative** sentiments.  
-The goal was to understand the basics of text processing, sentiment analysis, and data visualization using Python.  
-
-This task was completed as part of the **Future Interns – Data Science & Analytics Internship**.  
+The goal was to understand the basics of text processing, sentiment analysis, and data visualization using Python. 
 
 ---
 
@@ -45,7 +43,7 @@ This task was completed as part of the **Future Interns – Data Science & Analy
 
 ## 📂 Project Structure  
 ```
-Future_Interns_Task3_Sentiment_Analysis/
+Sentiment_Analysis/
 │── sentiment_analysis.ipynb
 │── feedback_data.csv
 │── README.md
@@ -67,4 +65,4 @@ This task helped strengthen my understanding of:
 - Sentiment analysis techniques  
 - Data visualization and interpretation  
 
-✅ Task completed successfully as per **Future Interns internship guidelines**  
+✅ Task completed successfully.  
